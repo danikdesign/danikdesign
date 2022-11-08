@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Danik. I'm from UA. 
+- 👋 Hi, my name is Daniel. I'm from UA. 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Ruby/Ruby on Rails
 - 📫 How to reach me = { IG:@danikdesign }
